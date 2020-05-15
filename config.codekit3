@@ -9,14 +9,6 @@
 	],
 "creatorBuild": "32147",
 "files": {
-	"/aboutus.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/aboutus.html",
-		"oF": 0
-		},
 	"/blog.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -3716,22 +3708,6 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/buying.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/buying.html",
-		"oF": 0
-		},
-	"/contact.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/contact.html",
-		"oF": 0
-		},
 	"/contactengine.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -3746,14 +3722,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/contactthanks.php",
-		"oF": 0
-		},
-	"/family.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/family.html",
 		"oF": 0
 		},
 	"/fonts/fontawesome-webfont.eot": {
@@ -4550,14 +4518,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/index.html",
-		"oF": 0
-		},
 	"/insurance.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -4643,38 +4603,6 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/ourfees.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/ourfees.html",
-		"oF": 0
-		},
-	"/partners.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/partners.html",
-		"oF": 0
-		},
-	"/privacy.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/privacy.html",
-		"oF": 0
-		},
-	"/probate.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/probate.html",
-		"oF": 0
-		},
 	"/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -4700,14 +4628,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/robots.txt",
-		"oF": 0
-		},
-	"/services.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/services.html",
 		"oF": 0
 		},
 	"/stylesheets/app-min.css": {
