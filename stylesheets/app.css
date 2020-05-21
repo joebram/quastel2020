@@ -6563,6 +6563,9 @@ span.copper {
 }
 
 /* Drop In Blog */
+#dib-posts {
+  margin-top: 20px !important;
+}
 .dib-post-content p {
   color: white !important;
 }
