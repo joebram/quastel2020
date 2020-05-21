@@ -4045,6 +4045,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/Kerry.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/Kerry.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/linkedin.png": {
 		"ft": 32768,
 		"iS": 1448,
@@ -4262,6 +4273,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/img/Sophie.jpg": {
+		"ft": 16384,
+		"iS": 39432,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/Sophie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/staff1.jpg": {
