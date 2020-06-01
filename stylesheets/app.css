@@ -4801,7 +4801,7 @@ meta.foundation-mq-topbar {
       background: #274a59;
       color: #FFFFFF; }
     .top-bar-section li:not(.has-form) a:not(.button) {
-      padding: 0 1.5625rem;
+      padding: 0 1rem;
       line-height: 4.6875rem;
       background: #274a59; }
       .top-bar-section li:not(.has-form) a:not(.button):hover {
