@@ -3814,6 +3814,17 @@
 		"oAP": "/humans.txt",
 		"oF": 0
 		},
+	"/img/AndrewMiddleton.jpg": {
+		"ft": 16384,
+		"iS": 25663,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/AndrewMiddleton.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/artsure.jpg": {
 		"ft": 16384,
 		"iS": 15406,
@@ -3886,6 +3897,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/buying-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/ClareBlatherwick.jpg": {
+		"ft": 16384,
+		"iS": 23533,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ClareBlatherwick.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4119,6 +4141,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/img/NeilGrenyer.jpg": {
+		"ft": 16384,
+		"iS": 25685,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/NeilGrenyer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/partner1.jpg": {
@@ -4515,6 +4548,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/img/TomWard.jpg": {
+		"ft": 16384,
+		"iS": 25507,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/TomWard.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/valuation-1.jpg": {
